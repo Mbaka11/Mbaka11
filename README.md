@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marsel Bakashov</h1>
 <h3 align="center">Enthusiastic and highly-motivated Software Engineering student with a strong drive for taking initiative and em- bracing new challenges.</h3>
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frien-de-special-nepal-gif-21219371&psig=AOvVaw3Uh8sRuWjbI-n0hPrirlTc&ust=1693426610343000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODuuO_XgoEDFQAAAAAdAAAAABAs" alt="Animated GIF" />
+</p>
+
 - 🔭 I’m studying full-time @ **Polytechnique Montréal in Software Engineering**
 
 - 🌱 I’m currently learning **Cybersecurity, AI**
