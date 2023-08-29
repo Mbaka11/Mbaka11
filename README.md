@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marsel Bakashov</h1>
-<h3 align="center">Enthusiastic and highly-motivated Software Engineering student with a strong drive for taking initiative and em- bracing new challenges.</h3>
+<h3 align="center">Enthusiastic and highly-motivated Software Engineering student with a strong drive for taking initiative and embracing new challenges.</h3>
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/NewHelplessAcornweevil-max-1mb.gif" alt="Animated GIF" />
