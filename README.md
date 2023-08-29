@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic and highly-motivated Software Engineering student with a strong drive for taking initiative and embracing new challenges.</h3>
 
 <p align="center">
-  <img src="https://thumbs.gfycat.com/NewHelplessAcornweevil-size_restricted.gif" alt="Animated GIF" />
+  <img src="https://media2.giphy.com/media/5nkz98HmeYKfyCQsdY/giphy.gif" alt="Animated GIF" />
 </p>
 
 - 🔭 I’m studying full-time @ **Polytechnique Montréal in Software Engineering**
