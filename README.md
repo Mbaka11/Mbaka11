@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marsel Bakashov</h1>
+<h1 align="center">Hi 👋, I'm Marsel</h1>
 <h3 align="center">Enthusiastic and highly-motivated Software Engineering student with a strong drive for taking initiative and embracing new challenges.</h3>
 
 <p align="center">
