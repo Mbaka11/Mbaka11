@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying full-time @ **Polytechnique Montréal in Software Engineering**
 
-- 🌱 I’m currently learning **Cybersecurity, AI**
+- 🌱 I’m currently learning **Cybersecurity, Machine Learning, Next.JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
