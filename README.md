@@ -5,9 +5,7 @@
   <img src="https://media2.giphy.com/media/5nkz98HmeYKfyCQsdY/giphy.gif" alt="Animated GIF" />
 </p>
 
-- 🔭 I’m currently studying full-time @ **Polytechnique Montréal in Software Engineering**
-
-- 🌱 I’m currently learning **Cybersecurity, Machine Learning, Next.JS**
+- 🔭 I’m currently studying @ **in Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
