@@ -31,6 +31,17 @@
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
 </p>
 
+<h3 align="center">A little problem-solving 🧩</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/mBaka/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/mBaka?theme=dark&amp;ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/mBaka?theme=light&amp;ext=heatmap" alt="mBaka's LeetCode solved problems and activity heatmap" width="500" />
+    </picture>
+  </a>
+</p>
+
 <h3 align="center">Lately on GitHub</h3>
 
 <p align="center">
