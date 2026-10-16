@@ -42,19 +42,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages across my repos 🎨</h3>
-
-<p align="center">
-  <a href="https://github.com/Mbaka11?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mbaka11&amp;theme=github_dark" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mbaka11&amp;theme=github" alt="Top languages by repository count, not proficiency" width="350" />
-    </picture>
-  </a>
-  <br>
-  <sub>Languages by repository count — not a proficiency rating.</sub>
-</p>
-
 <h3 align="center">Lately on GitHub</h3>
 
 <p align="center">
