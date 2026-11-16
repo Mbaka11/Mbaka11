@@ -2,15 +2,9 @@
 
 Machine learning, reinforcement learning & a few side quests.
 
-<table>
-<tr>
-<td><img src="assets/brain.gif" alt="Rotating brain point cloud" width="130" /></td>
-<td><img src="assets/reward.gif" alt="RL reward curve" width="130" /></td>
-<td><img src="assets/crash.gif" alt="Crash Bandicoot with AI logos orbiting his head" width="230" /></td>
-<td><img src="assets/tree.gif" alt="Growing decision tree" width="130" /></td>
-<td><img src="assets/network.gif" alt="Neural network with signals flowing" width="130" /></td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/brain.gif" alt="Rotating brain point cloud" width="16%" /><img src="assets/reward.gif" alt="RL reward curve" width="16%" /><img src="assets/crash.gif" alt="Crash Bandicoot with AI logos orbiting his head" width="28%" /><img src="assets/tree.gif" alt="Growing decision tree" width="16%" /><img src="assets/network.gif" alt="Neural network with signals flowing" width="16%" />
+</p>
 
 🎓 Master's in machine learning at [**Mila**](https://mila.quebec/)  
 🧠 Into reinforcement learning, AI agents, and making data useful.
