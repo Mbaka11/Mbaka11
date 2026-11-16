@@ -2,7 +2,7 @@
 
 Machine learning, reinforcement learning & a few side quests.
 
-<img src="https://media2.giphy.com/media/5nkz98HmeYKfyCQsdY/giphy.gif" alt="Animated illustration" width="220" />
+<img src="assets/crash.gif" alt="Crash Bandicoot with AI logos orbiting his head" width="260" />
 
 🎓 Machine learning at [**Mila**](https://mila.quebec/)  
 🧠 Into reinforcement learning, AI agents, and making data useful.  
