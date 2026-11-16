@@ -7,7 +7,7 @@ Machine learning, reinforcement learning & a few side quests.
 🎓 Master's in machine learning at [**Mila**](https://mila.quebec/)  
 🧠 Into reinforcement learning, AI agents, and making data useful.
 
-> *"Nothing about your current situation is a mystery. You have the body of your last 1,000 meals, the bank account of your last 1,000 decisions, the memories of your last 1,000 conversations. Your life is the recipe. Take ownership."*
+> *Your life is the recipe. Take ownership.*
 
 [Portfolio](https://marselbakashov.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/marsel-bakashov-813643213/)
 
