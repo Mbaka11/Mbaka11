@@ -119,5 +119,37 @@ def tree():
         frames.append(img)
     save(frames, "tree")
 
+
+# ---------- 4. neural network ----------
+def network():
+    layers = [4, 6, 6, 3]; xs = [50, 140, 220, 310]
+    nodes = [[(xs[l], H / 2 + (j - (n - 1) / 2) * 34) for j in range(n)] for l, n in enumerate(layers)]
+    edges = [(l, a, b) for l in range(3) for a in range(layers[l]) for b in range(layers[l + 1])]
+    ph = {e: rng.uniform(0, 1) for e in edges}
+    frames = []
+    for i in range(N):
+        t = i / N
+        img = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(img)
+        for e in edges:
+            l, a, b = e; p, q = nodes[l][a], nodes[l + 1][b]
+            d.line((*p, *q), fill=(28, 36, 44))
+        pts = []
+        for e in edges:
+            l, a, b = e; p, q = nodes[l][a], nodes[l + 1][b]
+            f = (t * 2 + ph[e]) % 1.0
+            if ph[e] < 0.45:
+                x, y = p[0] + (q[0] - p[0]) * f, p[1] + (q[1] - p[1]) * f
+                pts.append((x, y, 2, (20, 130, 70)))
+        img = glow(img, pts); d = ImageDraw.Draw(img)
+        for x, y, r, c in pts: d.ellipse((x - 1.5, y - 1.5, x + 1.5, y + 1.5), fill=(200, 255, 220))
+        for l, col in enumerate(nodes):
+            for j, (x, y) in enumerate(col):
+                on = math.sin(2 * math.pi * (t * 2 - l * 0.25) + j) > 0.4
+                d.ellipse((x - 6, y - 6, x + 6, y + 6), fill=(60, 255, 140) if on else (40, 48, 58), outline=(90, 110, 100))
+        for x, name in zip(xs, ["obs", "h1", "h2", "action"]):
+            d.text((x - 4 * len(name), H - 22), name, font=FONT, fill=(139, 148, 158))
+        frames.append(img)
+    save(frames, "network")
+
 if __name__ == "__main__":
-    brain(); reward(); tree()
+    brain(); reward(); tree(); network()
