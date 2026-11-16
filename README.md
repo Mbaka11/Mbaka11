@@ -1,22 +1,20 @@
-<h1 align="center">Hey, I'm Marsel 👋</h1>
-<h3 align="center">Machine learning, reinforcement learning & a few side quests.</h3>
+# Hey, I'm Marsel 👋
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/5nkz98HmeYKfyCQsdY/giphy.gif" alt="Animated illustration" width="360" />
-</p>
+Machine learning, reinforcement learning & a few side quests.
 
-<p align="center">
-  🎓 Master's student in Machine Learning @ <strong>Université de Montréal / McGill – Mila</strong><br>
-  🧠 Into reinforcement learning, AI agents, and making data useful.<br>
-  🛠️ Build. Experiment. Learn. Repeat.
-</p>
+<img src="https://media2.giphy.com/media/5nkz98HmeYKfyCQsdY/giphy.gif" alt="Animated illustration" width="220" />
 
-<p align="center">
-  <a href="https://marselbakashov.netlify.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/marsel-bakashov-813643213/">LinkedIn</a>
-</p>
+🎓 Machine learning at [**Mila**](https://mila.quebec/)  
+🧠 Into reinforcement learning, AI agents, and making data useful.  
+🛠️ Build. Experiment. Learn. Repeat.
 
-<p align="center">
+[Portfolio](https://marselbakashov.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/marsel-bakashov-813643213/)
+
+---
+
+## 🧰 Tech I use
+
+<p>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" /></a>
   <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" /></a>
   <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40" /></a>
@@ -31,24 +29,26 @@
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
 </p>
 
-<h3 align="center">A little problem-solving 🧩</h3>
+---
 
-<p align="center">
-  <a href="https://leetcode.com/u/mBaka/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/mBaka?theme=dark&amp;ext=heatmap" />
-      <img src="https://leetcard.jacoblin.cool/mBaka?theme=light&amp;ext=heatmap" alt="mBaka's LeetCode solved problems and activity heatmap" width="500" />
-    </picture>
-  </a>
-</p>
+## 🧩 A little problem-solving
 
-<h3 align="center">Lately on GitHub</h3>
+<a href="https://leetcode.com/u/mBaka/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/mBaka?theme=dark&amp;ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/mBaka?theme=light&amp;ext=heatmap" alt="mBaka's LeetCode stats" width="500" />
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Mbaka11?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mbaka11&amp;theme=github_dark" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mbaka11&amp;theme=github" alt="GitHub contributions over the past year" width="700" />
-    </picture>
-  </a>
-</p>
+---
+
+## 📈 Lately on GitHub
+
+<a href="https://github.com/Mbaka11?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mbaka11&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mbaka11&amp;theme=github" alt="GitHub contributions over the past year" width="700" />
+  </picture>
+</a>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Mbaka11&amp;theme=dark&amp;hide_border=true&amp;background=0D1117" alt="GitHub streak" />
