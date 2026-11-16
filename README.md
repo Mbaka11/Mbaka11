@@ -34,10 +34,7 @@ Machine learning, reinforcement learning & a few side quests.
 ## 🧩 A little problem-solving
 
 <a href="https://leetcode.com/u/mBaka/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/mBaka?theme=dark&amp;ext=heatmap" />
-    <img src="https://leetcard.jacoblin.cool/mBaka?theme=light&amp;ext=heatmap" alt="mBaka's LeetCode stats" width="500" />
-  </picture>
+  <img src="assets/leetcode.svg" alt="mBaka LeetCode stats" width="700" />
 </a>
 
 ---
