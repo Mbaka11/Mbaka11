@@ -4,6 +4,8 @@ Machine learning, reinforcement learning & a few side quests.
 
 <img src="assets/crash.gif" alt="Crash Bandicoot with AI logos orbiting his head" width="260" />
 
+<img src="assets/brain.gif" alt="Rotating brain point cloud" width="240" /> <img src="assets/reward.gif" alt="RL reward curve" width="240" /> <img src="assets/tree.gif" alt="Growing decision tree" width="240" />
+
 🎓 Master's in machine learning at [**Mila**](https://mila.quebec/)  
 🧠 Into reinforcement learning, AI agents, and making data useful.
 

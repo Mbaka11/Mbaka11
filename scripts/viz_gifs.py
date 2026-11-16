@@ -45,7 +45,7 @@ def brain():
         pulse = (np.sin(P[:, 2] * 4 + P[:, 0] * 3 - 2 * a) > 0.93)
         img = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(img)
         for k in np.argsort(z):
-            t = (z[k] + 1.3) / 2.6; v = int(70 + 150 * t)
+            t = (z[k] + 1.3) / 2.6; v = int(35 + 105 * t)
             col = (60, 255, 140) if pulse[k] else (v, v, v)
             r = 1.4 if pulse[k] else 1 + t * 0.6
             d.ellipse((sx[k] - r, sy[k] - r, sx[k] + r, sy[k] + r), fill=col)
@@ -83,7 +83,7 @@ def reward():
         x, y = pt(m - 1, best_s)
         img = glow(img, [(x, y, 4, (40, 160, 90))]); d = ImageDraw.Draw(img)
         d.ellipse((x - 3, y - 3, x + 3, y + 3), fill=(220, 255, 235))
-        d.text((x - 62 if x > R - 80 else x + 8, y - 18), f"R = {best_s[m-1]*100:.0f}", font=FONT, fill=(200, 255, 220))
+        d.text((x - 62 if x > R - 80 else x + 8, y - 18), f"return {best_s[m-1]*100:.0f}", font=FONT, fill=(200, 255, 220))
         frames.append(img)
     save(frames, "reward")
 
@@ -110,8 +110,10 @@ def tree():
             g = int(70 + 185 * (dep / 6)); d.line((x1, y1, xe, ye), fill=(30, g, 90 + int(40 * dep / 6)), width=max(1, 4 - dep // 2))
             if dep >= 5 and f >= 1: pts.append((xe, ye, 3, (20, 130, 70)))
         img = glow(img, pts); d = ImageDraw.Draw(img)
+        done = set()
         for x1, y1, x2, y2, d0, dep in segs:
-            if np.clip(prog - d0, 0, 1) >= 1 and dep in names and x2 > W / 2 - 1:
+            if np.clip(prog - d0, 0, 1) >= 1 and dep in names and dep not in done and x2 > W / 2 - 1:
+                done.add(dep)
                 d.rectangle((x2 + 3, y2 - 7, x2 + 3 + 6 * len(names[dep]), y2 + 6), outline=(60, 90, 70))
                 d.text((x2 + 6, y2 - 6), names[dep], font=FONT, fill=(200, 255, 220))
         frames.append(img)
