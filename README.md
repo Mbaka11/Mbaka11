@@ -11,7 +11,7 @@ Machine learning, reinforcement learning & a few side quests.
 
 > *Your life is the recipe. Take ownership.*
 
-[Portfolio](https://marselbakashov.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/marsel-bakashov-813643213/)
+[Portfolio](https://marselbak.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/marsel-bakashov-813643213/)
 
 ---
 
